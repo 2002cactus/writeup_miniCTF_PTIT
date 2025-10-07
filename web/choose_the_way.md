@@ -2,6 +2,7 @@ Truy cập trang web bẳng Burp Suite Browser.
 Đây là 1 trang web có chức năng upload file.
 
 Thử upload 1 file .txt lên.
+
 <img width="680" height="495" alt="image" src="https://github.com/user-attachments/assets/5b757730-c4f4-4288-9687-61c25317917c" />
 
 Bấm vào file vừa upload, file sẽ tự động được tải về.
