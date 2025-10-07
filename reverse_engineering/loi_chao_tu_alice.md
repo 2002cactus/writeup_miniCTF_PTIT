@@ -1,5 +1,6 @@
 Challenge cho 2 file .txt:
 file_du_lieu.txt
+```
 #include <iostream>
 using namespace std;
 #define flag_string flag[i]++
@@ -9,6 +10,7 @@ int main()
     for (int i = 0; i < n; i++) flag_string;
     return 0;
 }
+```
 
 noi_dung_ki_la.txt
 njojDUG|Xf2d1n4`u1`Wv2oe4s2boe
@@ -19,6 +21,7 @@ Vậy để giải mã file noi_dung_ki_la.txt thì cần giảm giá trị ASCI
 Sử dụng https://www.onlinegdb.com/online_c++_compiler để chạy chương trình giải mã.
 
 Chương trình giải mã:
+```
 #include <iostream>
 #include <string>
 
@@ -37,6 +40,7 @@ int main()
     
     return 0;
 }
+```
 
 Chạy chương trình, thu được flag.
 <img width="969" height="829" alt="image" src="https://github.com/user-attachments/assets/5583c571-fe39-4c4f-bad5-414fe491afab" />
