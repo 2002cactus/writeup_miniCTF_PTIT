@@ -1,7 +1,7 @@
 Challenge cho dãy số 
 109, 214, 110, 215, 67, 151, 70, 193, 72, 124, 112, 192, 121, 216, 66, 115, 114, 198, 104, 199, 68, 120, 89, 122, 125
 và file file.txt có nội dung:
-
+```
 #include <iostream>
 
 using namespace std;
@@ -19,6 +19,7 @@ int main()
         cout << flag_string[i] << " ";
     return 0;
 }
+```
 
 File này là 1 chương trình C++ cho biết quy tắc mã hóa flag: 
 - Nếu số thứ tự của kí tự là chẵn: Giá trị mã hóa là giá trị ASCII của kí tự gốc.
@@ -30,6 +31,7 @@ Quy tắc giải mã:
 
 Sử dụng https://www.onlinegdb.com/online_c++_compiler để chạy chương trình giải mã:
 Chương trình giải mã:
+```
 #include <iostream>
 #include <vector>
 #include <string>
@@ -64,6 +66,7 @@ int main()
     
     return 0;
 }
+```
 
 Chạy chương trình, thu được flag.
 <img width="1191" height="1244" alt="image" src="https://github.com/user-attachments/assets/8a6d7c54-bd60-454b-a5b3-5fc1fc4fe8eb" />
