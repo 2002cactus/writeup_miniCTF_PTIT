@@ -1,4 +1,5 @@
 Truy cập trang web.
+
 <img width="727" height="119" alt="image" src="https://github.com/user-attachments/assets/cb6b894f-6aee-475c-95c9-489b3db9e893" />
 
 Để lấy được flag cần đạt số điểm là 10000000000.
