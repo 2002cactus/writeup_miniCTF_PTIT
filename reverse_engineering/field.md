@@ -5,6 +5,7 @@ Sử dụng https://www.onlinegdb.com/online_pascal_compiler để chạy chươ
 Thêm chức năng in thông điệp vào cuối chương trình:
 
 write('Message: ');
+
 for i := 1 to 1000 do
   write(a[i]);
 
