@@ -1,3 +1,4 @@
+Truy cập trang web.
 Inspect -> Application -> Cookie
 
 <img width="2255" height="567" alt="image" src="https://github.com/user-attachments/assets/504b51be-eea8-4027-9cae-13d7be0aa333" />
